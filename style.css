@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    background-size: cover;
+}
+.navi{
+    padding-top: 15px;
+    margin-right: 1200px;
+    height: 170px;
+    padding-left: 20px;
+    background-color: rgba(187, 241, 244, 0.973);
+} 
+.navi h1{
+    color: rgb(32, 32, 62);
+}
+.main{
+    margin-right: 450px;
+    margin-left: 400px;
+    font-size: larger;
+    background-color: rgba(252, 252, 252, 0.973);
+    flex: 1;
+    text-align: center;
+    margin-top: 100px;
+}
+.main h1{
+    font-size: xx-large;
+}
+.header h3{
+    color: rgb(34, 160, 160);
+}
+.rakesupo {
+    margin-left: 400px;
+    margin-right: 400px;
+    background-color: aliceblue;
+}
+.tennis{
+    text-align: center;
+}
+.title{
+    font-size: larger;
+    text-align: center;
+    color: rgb(27, 162, 54);
+}
+.tennis {
+    font-size: x-large;
+    padding-top: 30px;
+    color: rgb(27, 162, 54);
+}
+.tennis h3{
+    padding-top: 10px;
+    color: rgb(57, 148, 53);
+}   
+.badminton{
+    font-size: x-large;
+    text-align: center;
+}
+.badminton h2{
+    color: rgb(27, 162, 54);
+}
+.badminton h3{
+    padding-top: 10px;
+    color: rgb(57, 148, 53);
+}
+.back{
+    font-size: larger;
+    margin-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+.syumi {
+    margin-left: 400px;
+    margin-right: 400px;
+    background-color: aliceblue;
+}
+.game{
+    text-align: center;
+    font-size: x-large;
+    padding-top: 30px;
+}
+.title2{
+    font-size: larger;
+    text-align: center;
+    color: rgb(27, 90, 162);
+}
+.game h3{
+    padding-top: 10px;
+    color: rgb(27, 90, 162);
+}   
+.syumi{
+    font-size: x-large;
+    text-align: center;
+}
+.syumi h2{
+    color: rgb(27, 90, 162);
+}
+.syumi h3{
+    padding-top: 10px;
+    color: rgb(27, 90, 162);
+}
+.back2{
+    font-size: larger;
+    
+    text-align: center;
+}
